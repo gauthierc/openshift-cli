@@ -2,7 +2,6 @@ FROM debian:9.5-slim
 MAINTAINER Gauthier C.
 
 ENV LANG=C.UTF-8
-# Here we install GNU libc (aka glibc) and set C.UTF-8 locale as default. 
 
 ENV OC_VERSION "v3.9.0"
 ENV OC_RELEASE "openshift-origin-client-tools-v3.9.0-191fece-linux-64bit"
