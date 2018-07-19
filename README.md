@@ -2,7 +2,7 @@
 
 ## Summary
 
-- A Docker image for the oc command line tool, used to control Openshift based on debian. 
+- A Docker image for the oc command line tool, used to control Openshift based on alpine.
 
 ## To build the Docker image
 
