@@ -13,5 +13,3 @@ RUN tar --strip-components=1 -xzvf  /opt/oc/release.tar.gz -C /opt/oc/ && \
     rm -rf /opt/oc
 
 RUN apt-get update && apt-get install -y ca-certificates
-
-USER 2000
