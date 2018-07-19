@@ -1,4 +1,4 @@
-FROM debian:9
+FROM debian:9.5-slim
 MAINTAINER Gauthier C.
 
 ENV LANG=C.UTF-8
