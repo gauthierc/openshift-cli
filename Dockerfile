@@ -1,4 +1,4 @@
-FROM debian:8
+FROM debian:9
 MAINTAINER Gauthier C.
 
 ENV LANG=C.UTF-8
